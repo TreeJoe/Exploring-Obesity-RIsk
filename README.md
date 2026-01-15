@@ -1,2 +1,3 @@
-# Exploring-Obesity-RIsk
-Logistic regression–based classification analysis of obesity data with categorical data analysis and model evaluation.
+# Data Source
+- The OBESITY PREDICTION dataset is collected from the website Kaggle.com. The link to the original data is attached below.
+- https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
