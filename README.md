@@ -27,7 +27,7 @@ dietary, lifestyle, and physical characteristics and obesity status.
 ## Repository Structure
 
 - `data/`: Raw and cleaned datasets.
-- `dissertation/`: Original dissertation report.
+- `report/`: Original report.
 - `R/`: Original R-based statistical analysis.
 - `Python/`: Python-based analysis and machine learning extensions.
 - `results/`: Visualizations and model evaluation outputs.
