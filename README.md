@@ -56,7 +56,7 @@ dietary, lifestyle, and physical characteristics and obesity status.
 ## Implementations
 
 ### R
-Reproduces the statistical analysis associated with the original dissertation.
+Reproduces the statistical analysis associated with the original project.
 
 ### Python
 A separate implementation intended to extend the analysis with
@@ -64,8 +64,8 @@ additional modelling approaches and more rigorous model evaluation.
 
 ## Report
 
-See `dissertation/Obesity Prediction Analysis.pdf` for the original
-dissertation.
+See `report/Obesity Prediction Analysis.pdf` for the original
+project.
 
 ## Tools
 
